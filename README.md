@@ -1,2 +1,2 @@
-# template-landing-page-
-landing page template code
+DOMUS - family social app
+
